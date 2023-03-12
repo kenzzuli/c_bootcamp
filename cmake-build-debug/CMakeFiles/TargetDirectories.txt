@@ -1,0 +1,3 @@
+/Users/ken/CLionProjects/review_c/cmake-build-debug/CMakeFiles/review_c.dir
+/Users/ken/CLionProjects/review_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ken/CLionProjects/review_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

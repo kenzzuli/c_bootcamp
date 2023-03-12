@@ -1,0 +1,5 @@
+# ninja log v5
+452	518	1678585455324375909	review_c	4cc85b5d85170215
+2	419	1678585313675423737	CMakeFiles/review_c.dir/multiply/Source.cpp.o	b018281d6ebb6f0d
+2	452	1678585455254741720	CMakeFiles/review_c.dir/main.cpp.o	8fca5d593cf6dcd5
+1	95	1678585831232018059	build.ninja	14cf6258fcbce95e
